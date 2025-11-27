@@ -19,7 +19,11 @@ platforms:
   - type: Linkedin
     icon: "fab fa-linkedin"
     link: "https://www.linkedin.com/feed/?shareActive=true&shareUrl=URL"
-  
+
+  - type: github
+    icon: "fab fa-github"
+    link: "https://github.com/PierreLignel"
+
   # - type: Weibo
   #   icon: "fab fa-weibo"
   #   link: "https://service.weibo.com/share/share.php?title=TITLE&url=URL"
